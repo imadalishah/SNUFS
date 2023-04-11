@@ -35,7 +35,9 @@ Note: Detailed implementation and results for each step can be found in the asso
 
 
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://www.github.com/imadalishah)
+[![github](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png)](https://www.github.com/imadalishah)
+[![twitter](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png)](https://www.twitter.com/imadalishah)
+[![linkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png)](https://www.linked.com/in/imadalishah)
 ---
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png)](www.github.com/imadalishah)
 [![twitter]([https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png)](www.twitter.com/imadalishah)
