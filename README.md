@@ -35,7 +35,7 @@ Note: Detailed implementation and results for each step can be found in the asso
 
 
 
-**Contact**
+# **Contact**
 
 [![LinkedIn](https://user-images.githubusercontent.com/57298558/231293935-ead7992d-43a1-4de7-a023-3800fdecd331.png)](https://www.linkedin.com/in/imadalishah)
 [![Twitter](https://user-images.githubusercontent.com/57298558/231293638-7be4782a-6851-4049-969e-0bd0ce067276.png)](https://www.twitter.com/imadalishah)
