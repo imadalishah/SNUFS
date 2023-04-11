@@ -1,4 +1,4 @@
-# **SNUFS**
+
 **A Novel Approach for Adaptive Detection of Small and Low Contrast Coalesced Objects**
 
 This repository implements an adaptive detection approach for small and low contrast coalesced objects. The code is currently pending upload, awaiting acceptance of the associated paper.
