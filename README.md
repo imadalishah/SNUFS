@@ -36,7 +36,11 @@ Note: Detailed implementation and results for each step can be found in the asso
 
 
 **Contact**
-[![github](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png | width=10)](https://www.github.com/imadalishah)
-[![twitter](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png | width=10)](https://www.twitter.com/imadalishah)
-[![linkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png | width=10)](https://www.linkedin.com/in/imadalishah)
+
+[![github](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png)](https://www.github.com/imadalishah)
+[![twitter](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png)](https://www.twitter.com/imadalishah)
+[![linkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/imadalishah)
+
+
+<img src="[https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" data-canonical-src="https://www.github.com/imadalishah" width="10" height="10" />
 
