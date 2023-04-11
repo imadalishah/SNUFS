@@ -37,6 +37,6 @@ Note: Detailed implementation and results for each step can be found in the asso
 
 **Contact**
 
-[![LinkedIN](https://user-images.githubusercontent.com/57298558/231293147-1465fb2c-130b-43f7-be26-39fc3127dea9.png)](https://www.linkedin.com/in/imadalishah)
+[![LinkedIn](https://user-images.githubusercontent.com/57298558/231293935-ead7992d-43a1-4de7-a023-3800fdecd331.png)](https://www.linkedin.com/in/imadalishah)
 [![Twitter](https://user-images.githubusercontent.com/57298558/231293638-7be4782a-6851-4049-969e-0bd0ce067276.png)](https://www.twitter.com/imadalishah)
 [![Github](https://user-images.githubusercontent.com/57298558/231293745-ae272207-5087-4ea6-a3ee-184fccc8a492.png)](https://www.github.com/imadalishah)
