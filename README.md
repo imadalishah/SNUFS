@@ -39,7 +39,7 @@ Note: Detailed implementation and results for each step can be found in the asso
 
 [![github](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png)](https://www.github.com/imadalishah)
 [![twitter](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png)](https://www.twitter.com/imadalishah)
-[![linkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/imadalishah)
+[![LinkedIN](https://user-images.githubusercontent.com/57298558/231293147-1465fb2c-130b-43f7-be26-39fc3127dea9.png)](https://www.linkedin.com/in/imadalishah)
 
 
 <img src="[https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Github.png" data-canonical-src="https://www.github.com/imadalishah" width="10" height="10" />
