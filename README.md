@@ -6,7 +6,7 @@ This repository implements an adaptive detection approach for small and low cont
 
 # **A Step-wise Literature and Algorithm Evaluations**
 
-The repository provides a step-wise journey that outlines the course of actions taken to achieve the final goals of the project. Each step includes an implementation and results, which can be accessed through the provided Colab notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X6s6dUhdk_JDZ9uG_rc7I7Us70nruB6-?usp=share_link)
+The repository provides a step-wise journey that outlines the course of actions taken to achieve the final goals of the project. Each step includes an implementation and results, which can be accessed through the provided Colab notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/imadalishah/SNUFS/blob/main/SNUFS_Journey.ipynb)
 
 
 # **Step-1: Central Difference Convolution (CDC) and its evaluation based on Sobel Operators**
