@@ -9,28 +9,21 @@ This repository implements an adaptive detection approach for small and low cont
 The repository provides a step-wise journey that outlines the course of actions taken to achieve the final goals of the project. Each step includes an implementation and results, which can be accessed through the provided Colab notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/imadalishah/SNUFS/blob/main/SNUFS_Journey.ipynb)
 
 
-# **Step-0: Central Difference Convolution (CDC) and its evaluation based on Sobel Operators**
-
-In this step, the CDC algorithm is implemented and evaluated based on Sobel Operators, which are commonly used for edge detection in image processing.
-
-![image](https://user-images.githubusercontent.com/57298558/231416633-cc445fec-3f30-43cd-b803-1133c89c5e0e.png)
-
-
-# **Step-1: CDC comparison based on Sobel and Scharr Operators**
+# **Step-1: CDC comparison based on Sobel, Scharr, Schmid and LoG Operators**
 
 This step involves a comparison of the CDC algorithm using Sobel and Scharr Operators, which are two different convolution operators commonly used for image processing tasks.
 
 ![image](https://user-images.githubusercontent.com/57298558/231416897-2f4713b1-6831-4617-add1-f912464fb3fd.png)
 
 
-# **Step-2: fast Fourier Convolution (FFC) and its evaluation based on Sobel and Scharr Operators**
+# **Step-2: fast Fourier Convolution (FFC) and its evaluation based on Sobel, Scharr, Schmid and LoG Operators**
 
 In this step, the FFC algorithm is implemented and evaluated based on Sobel and Scharr Operators. The FFC algorithm is known for its fast computation of convolutions using Fourier transform.
 
 ![image](https://user-images.githubusercontent.com/57298558/231417077-dedddda5-31d2-447f-bc56-c41bfdc670f2.png)
 
 
-# **Step-3: CDC followed by FFC based on Sobel and Scharr Operators**
+# **Step-3: CDC followed by FFC based on Sobel, Scharr, Schmid and LoG Operators**
 
 This step combines the CDC and FFC algorithms, where the CDC is applied first followed by FFC, and the evaluation is performed based on Sobel and Scharr Operators.
 
